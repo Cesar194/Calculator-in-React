@@ -1,2 +1,26 @@
-# Calculator-in-React
-This is a calculator example that can be done using React
+Calculator
+---
+<img src="Logotype primary.png" width="60%" height="60%" />
+
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator
+
+
+
+Try It
+---
+
+https://github.com/Cesar194)
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
